@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nom": "Moteur Complet Éclaté - Bloc + Culasse + Pistons",
+    "categorie": "Moteur",
+    "prix": 350000,
+    "stock": "En stock",
+    "image": "images/photo-1-moteur-eclate-complet.jpg",
+    "description": "Moteur complet éclaté : Bloc moteur + Culasse + Pistons + Bielles + Soupapes + Segments + Vilebrequin. Prêt à monter. Pour Toyota, Hyundai, Kia."
+  },
+  {
+    "id": 2,
+    "nom": "Kit Turbo + Piston + Engrenage Moteur",
+    "categorie": "Moteur",
+    "prix": 180000,
+    "stock": "En stock",
+    "image": "images/photo-2-turbo-piston-engrenage.jpg",
+    "description": "Kit Turbo + Piston + Bielle + Engrenage + Roulement + Vilebrequin. Turbo neuf, garantie 3 mois. Pour moteur essence et diesel."
+  }
+]
